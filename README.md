@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexCooperJr
 # 💫 About Me:
-🔭 I’m currently working on finding my next big project, likely a casino like Java program!<br>🌱 I’m currently learning Java in university classes and enjoy learning other languages on my own time.<br>💬 Ask me about ANYTHING!<br>⚡ Fun fact I'm a sophomore in college!
+🔭 I’m currently working on finding my next big project, a role-playing game Java!<br>🌱 I’m currently learning Java in university classes and enjoy learning other languages on my own time.<br>💬 Ask me about ANYTHING!<br>⚡ Fun fact I'm a Junior in college!
 
 
 # 💻 Tech Stack:
